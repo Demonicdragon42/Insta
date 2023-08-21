@@ -3,7 +3,7 @@
 
 1)apt-get install tor
 
-2)git clone:https://github.com/
+2)git clone https://github.com/Demonicdragon42/Insta.git
 
 3)tor (Open new terminal and run the tor command)
 
